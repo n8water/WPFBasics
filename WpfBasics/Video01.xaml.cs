@@ -18,9 +18,9 @@ namespace WpfBasics
     /// <summary>
     /// Interaction logic for MainWindow.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class Video01 : Window
     {
-        public MainWindow()
+        public Video01()
         {
             InitializeComponent();
         } 
